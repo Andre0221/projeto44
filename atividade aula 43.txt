@@ -1,0 +1,21 @@
+
+
+Historia: Uma pessoa que esta tentando atravessar a cidade sobreviver aos monstros
+
+Personagens
+
+PC: Pessoa
+
+NPC: Caixa, Monstro, Moeda 
+
+Objetivos: Chegar até o fim e enfrentar o chefe
+
+Regras: Se o jogador encostar no monstro perde parte da vida, pegar a moeda aumenta a  pontuação, não pode atravessar os obstaculos
+
+Equilibrio: Se o jogador encostar no monstro perde parte da vida, na metade da fase tem como recuperar vida
+
+Adaptação: Conforme o jogador avança vão aparecendo cada vez mais obstaculos e monstros
+
+Sorte ou habilidade: Jogo de habilidade para ultrapassar os obstaculos e os monstros
+
+Feedback: Pontuação, proxima fase
